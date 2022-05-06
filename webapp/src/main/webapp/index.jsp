@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Register Turgi</h1>
+    <h1>Register Turgi Bey  !!! </h1>
     <p>Yaz ismini, gorelim cismini !!! </p>
     <p>Hadi Bakalim !!! </p>
     <p>Please fill in this form to create an account.</p>
