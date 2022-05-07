@@ -3,7 +3,7 @@
     <h1>Register Turgi Bey Amcacim !!! </h1>
     <p>Yaz ismini, gorelim cismini !!! </p>
     <p>Hadi Bakalim !!! </p>
-    <p>Hadi Bakalim !!! </p>
+    <p>Hadi  hop Bakalim !!! </p>
     <p>Hadi Bakalim !!! </p>
     <p>Please fill in this form to create an account.</p>
     <hr>
