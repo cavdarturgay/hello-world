@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Register Turgi Bey Amcacim !!! </h1>
-    <p>Yaz ismini, gorelim cismini !!! </p>
+    <p> HELLO AMCA!!! </p>
     <p> HELLO AMCA!!! </p>
     <p>Hadi Bakalim !!! </p>
     <p>Hadi  hop Bakalim !!! </p>
