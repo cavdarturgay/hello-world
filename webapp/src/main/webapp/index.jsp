@@ -4,7 +4,6 @@
     <p> XXXXXXXXXXXXXXXXXXXXX </p>
     <p> HELLO AY!MAZLAR!! </p>
     <p> HELLO AY!MAZLAR!! </p>
-    <p> HELLO AY!!! </p>
     <p>Hadi Bakalim !!! </p>
     <p>Hadi  hop Bakalim !!! </p>
     <p>Hadi Bakalim !!! </p>
