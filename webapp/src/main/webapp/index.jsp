@@ -1,10 +1,10 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Register Turgi Bey Amcacim !!! </h1>
+    <p> HELLO AY!MAZLAR!! </p>
+    <p> HELLO AY!MAZLAR!! </p>
     <p> HELLO AY!!! </p>
     <p> HELLO AY!!! </p>
-    <p> HELLO AY!!! </p>
-    <p> HELLO AYI!!! </p>
     <p> HELLO AYI!!! </p>
     <p> HELLO MCA!!! </p>
     <p> HELLO MCA!!! </p>
