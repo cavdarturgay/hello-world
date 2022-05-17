@@ -5,7 +5,7 @@
     <p> Ansible  sasaaHELLO AY!MAZLAR!! </p>
     <p> HELLO AY!MAZLAR!! </p>
     <p>Hadi Bakalim !!! </p>
-    <p>Hadi  hop Bakalim !!! </p>
+    <p>Hadi  hop Badsdalim !!! </p>
     <p>Hadi Bakalim !!! </p>
     <p>Please fill in this form to create an account.</p>
     <hr>
