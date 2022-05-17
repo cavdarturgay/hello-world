@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Register Turgi Bey Amcacim !!! </h1>
-    <p> XXXXXXXXXXXXXXXXXXXXX </p>
+    <p> otomatik ansible XXXXXXXXXXXXXXXXXXXXX </p>
     <p> Ansible  sasaaHELLO AY!MAZLAR!! </p>
     <p> HELLO AY!MAZLAdfrR!! </p>
     <p>Hadi Bakalim !!! </p>
