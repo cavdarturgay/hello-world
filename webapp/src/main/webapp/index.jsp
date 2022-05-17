@@ -3,7 +3,7 @@
     <h1>Register Turgi Bey Amcacim !!! </h1>
     <p> XXXXXXXXXXXXXXXXXXXXX </p>
     <p> Ansible  sasaaHELLO AY!MAZLAR!! </p>
-    <p> HELLO AY!MAZLAR!! </p>
+    <p> HELLO AY!MAZLAdfrR!! </p>
     <p>Hadi Bakalim !!! </p>
     <p>Hadi  hop Badsdalim !!! </p>
     <p>Hadi Bakalim !!! </p>
