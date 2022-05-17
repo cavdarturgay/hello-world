@@ -2,6 +2,8 @@
   <div class="container">
     <h1>Register Turgi Bey Amcacim !!! </h1>
     <p> XXX </p>
+    <p> XXX </p>
+    <p> XXX </p>
     <p> Aaansible  sasaaHELLO AY!MAZLAR!! </p>
     <p> HELLO AY!MAZLAdfrR!! </p>
     <p>Hadi Bakalim !!! </p>
