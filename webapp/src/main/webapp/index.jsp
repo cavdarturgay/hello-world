@@ -2,7 +2,7 @@
   <div class="container">
     <h1>Register Turgi Bey Amcacim !!! </h1>
     <p> otomatik ansible XXXXXXXXXXXXXXXXXXXXX </p>
-    <p> Ansible  sasaaHELLO AY!MAZLAR!! </p>
+    <p> Aaansible  sasaaHELLO AY!MAZLAR!! </p>
     <p> HELLO AY!MAZLAdfrR!! </p>
     <p>Hadi Bakalim !!! </p>
     <p>Hadi  hop Badsdalim !!! </p>
