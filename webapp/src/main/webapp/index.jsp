@@ -1,10 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Register Turgi Bey Amcacim !!! </h1>
-    <p> XXX </p>
-    <p> XXX </p>
-    <p> XXX </p>
-    <p> DEVOPS project new!!! </p>
+    <p> DEVOPS project new arkadasım!! </p>
     <p> HELLO AY!MAZLAdfrR!! </p>
     <p>Hadi Bakalim !!! </p>
     <p>Hadi  hop Badsdalim !!! </p>
